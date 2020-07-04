@@ -4,7 +4,8 @@ console.log("Service worker ready");
 const FILES_TO_CACHE = [
     '/',
     '/index.html',
-    'index.js',
+    '/index.js',
+    '/db.js',
     '/manifest.webmanifest',
     '/styles.css',
     '/icons/icon-192x192.png',
