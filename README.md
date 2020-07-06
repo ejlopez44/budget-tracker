@@ -1,7 +1,7 @@
 
 # Budget Tracker
 
-![Budget Tracker Main Page Image](https://github.com/ejlopez44/workout-tracker/blob/master/public/assets/images/trackerDashboard.png)
+![Budget Tracker Main Page Image](https://github.com/ejlopez44/budget-tracker/blob/master/public/images/main.png)
 
 ## Description
 
