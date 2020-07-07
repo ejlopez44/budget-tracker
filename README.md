@@ -7,7 +7,7 @@
 
 You can view the deployed application here at: https://ejl-budget-tracker.herokuapp.com/
 
-This budget tracker allows a user to input deposits and expenses to monitor their budget. The exciting functionality of the app is that it is PWA optimized. It can be installed on the user's device and will work offline. If their is no connection to the internet, the app will continue to keep record of deposits and expenses however the page won't render those updates until there is a live internet connection again. 
+This budget tracker allows a user to input deposits and expenses to monitor their budget. The exciting functionality of the app is that it is PWA optimized. It can be installed on the user's device and will work offline. If there is no connection to the internet, the app will continue to keep record of deposits and expenses however the page won't render those updates until there is a live internet connection again. 
 
 ## Technologies
 
